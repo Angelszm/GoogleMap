@@ -1,12 +1,17 @@
 # GoogleMap
-Laravel Real Time Tracking
+#Laravel Real Time Tracking
 
 
 GoogleMap Using API 
 
+
+
 Build Status Total Downloads Latest Stable Version License
 
 About Laravel
+
+https://laravel.com/
+
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
 
 Simple, fast routing engine.
@@ -18,8 +23,11 @@ Robust background job processing.
 Real-time event broadcasting.
 Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
 
+
 Learning Laravel
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework, making it a breeze to get started learning the framework.
+
+Laravel has the most extensive and thorough documentation
+https://laravel.com/docs/5.6 and video tutorial library of any modern web application framework, making it a breeze to get started learning the framework.
 
 If you're not in the mood to read, Laracasts contains over 1100 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
 
@@ -43,6 +51,5 @@ WebL'Agence
 Invoice Ninja
 Contributing
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the Laravel documentation.
-
-Security Vulnerabilities
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+https://laracasts.com/ 
+https://laravel-news.com/
